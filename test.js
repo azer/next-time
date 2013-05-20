@@ -19,5 +19,4 @@ it('returns the nearest date of given time', function(){
   expect(nextTime(tomorrow1).getDate()).to.equal(now.getDate() + 1);
   expect(nextTime(tomorrow2).getDate()).to.equal(now.getDate() + 1);
   expect(nextTime(tomorrow2).getMinutes()).to.equal(now.getMinutes());
-
 });
