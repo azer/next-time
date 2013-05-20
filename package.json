@@ -1,0 +1,23 @@
+{
+  "name": "next-time",
+  "version": "0.0.0",
+  "description": "Returns the nearest date of given time",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "date",
+    "day",
+    "time"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/next-time.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
