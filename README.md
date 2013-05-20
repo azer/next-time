@@ -10,8 +10,6 @@ $ npm install next-time
 
 ## Usage
 
-At 6:00:
-
 ```js
 
 now
