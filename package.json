@@ -1,6 +1,6 @@
 {
   "name": "next-time",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Returns the nearest date of given time",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "time"
   ],
   "repository": {
-    "url": "git@github.com:azer\/next-time.git",
+    "url": "git@github.com:azer/next-time.git",
     "type": "git"
   },
   "author": "azer",
